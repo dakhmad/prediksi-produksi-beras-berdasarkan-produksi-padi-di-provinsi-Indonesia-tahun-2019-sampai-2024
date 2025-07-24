@@ -55,5 +55,7 @@ Data yang digunakan dalam proyek ini adalah data **"Produksi Padi dan Beras Menu
 5. **Evaluation**  
    - Melakukan evaluasi model dengan menggunakan MAE, MSE, RMSE, R<sup>2</sup>
    
-
 ---
+
+## Deploy Project di HuggingFace
+link project: [https://huggingface.co/spaces/dani4koa/prediksi_beras_berdasarkan_produksi_padi_di_Indonesia]
